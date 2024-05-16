@@ -10,6 +10,7 @@
     "properties": {
     "road":"Montague Street",
     "place":"Edinburgh",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCe3c-r3zy3-AAp8E-bx_IVGZwefy-ic80oL7M2qcAxg&s",
     "clusterid":1000
     }
   },
@@ -22,6 +23,7 @@
     "properties": {
     "road":"Rankeillor Street",
     "place":"Edinburgh",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCe3c-r3zy3-AAp8E-bx_IVGZwefy-ic80oL7M2qcAxg&s",
     "clusterid":1001
     }
   }
