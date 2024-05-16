@@ -1,0 +1,28 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.1805411,55.9418974 ]
+    },
+    "properties": {
+    "road":"Montague Street",
+    "place":"Edinburgh",
+    "clusterid":1000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.1809535,55.9426064 ]
+    },
+    "properties": {
+    "road":"Rankeillor Street",
+    "place":"Edinburgh",
+    "clusterid":1001
+    }
+  }
+}
