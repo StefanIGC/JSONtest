@@ -1,30 +1,31 @@
 {
-   "type": "FeatureCollection",
-   "features": [
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.1805411,55.9418974 ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1805411, 55.9418974]
+      },
+      "properties": {
+        "road": "Montague Street",
+        "place": "Edinburgh",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCe3c-r3zy3-AAp8E-bx_IVGZwefy-ic80oL7M2qcAxg&s",
+        "clusterid": 1000
+      }
     },
-    "properties": {
-    "road":"Montague Street",
-    "place":"Edinburgh",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCe3c-r3zy3-AAp8E-bx_IVGZwefy-ic80oL7M2qcAxg&s",
-    "clusterid":1000
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1809535, 55.9426064]
+      },
+      "properties": {
+        "road": "Rankeillor Street",
+        "place": "Edinburgh",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCe3c-r3zy3-AAp8E-bb_IVGZwefy-ic80oL7M2qcAxg&s",
+        "clusterbiid": 1001
+      }
     }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -3.1809535,55.9426064 ]
-    },
-    "properties": {
-    "road":"Rankeillor Street",
-    "place":"Edinburgh",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCe3c-r3zy3-AAp8E-bx_IVGZwefy-ic80oL7M2qcAxg&s",
-    "clusterid":1001
-    }
-  }
+  ]
 }
